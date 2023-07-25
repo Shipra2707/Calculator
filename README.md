@@ -23,3 +23,14 @@ This is a simple calculator program with a graphical user interface (GUI) built 
 
 ```bash
 python calculator.py
+The calculator window will appear.
+Use the number buttons, operator buttons, and the clear button to input your desired calculation.
+Click the equal button (=) to perform the calculation.
+The result will be displayed in the entry field.
+## Example
+
+Let's say you want to calculate the square root of a number. Here's how you can do it using this calculator:
+Run the program following the instructions in the "Usage" section.
+Enter the number for which you want to find the square root.
+Click the square root button (labelled "√").
+The result, which is the square root of the entered number, will be displayed in the entry field.
